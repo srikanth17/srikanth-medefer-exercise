@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render App correctly 1`] = `
+<Fragment>
+  <_default />
+  <div
+    className="container"
+  >
+    <div
+      className="row"
+    >
+      <Dashboard />
+    </div>
+  </div>
+</Fragment>
+`;
